@@ -1,0 +1,48 @@
+[19:01:14] [main/INFO]: Using mbed TLS based native cipher.
+[19:01:14] [main/INFO]: Using zlib based native compressor.
+[19:01:14] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[19:01:14] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[19:01:14] [main/INFO]: Epoll is working, utilising it!
+[19:01:14] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[19:01:14] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[19:01:14] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[19:01:14] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[19:01:14] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[19:01:14] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[19:01:14] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.6 by lax1dude
+[19:01:14] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[19:01:14] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[19:01:14] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /127.0.0.1:8081
+[19:01:14] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[19:01:14] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.6 by lax1dude
+[19:01:14] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[19:02:07] [Netty Worker IO Thread #1/ERROR]: [/127.0.0.1:42034] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:02:08] [Netty Worker IO Thread #2/ERROR]: [/127.0.0.1:42036] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:02:08] [Netty Worker IO Thread #3/ERROR]: [/127.0.0.1:42050] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:02:08] [Netty Worker IO Thread #4/ERROR]: [/127.0.0.1:42062] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:02:13] [Netty Worker IO Thread #5/ERROR]: [/127.0.0.1:48780] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:02:43] [Netty Worker IO Thread #6/WARN]: [/127.0.0.1:48788] <-> InitialHandler - read timed out
+[19:03:39] [Netty Worker IO Thread #7/ERROR]: [/127.0.0.1:60102] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:03:40] [Netty Worker IO Thread #8/ERROR]: [/127.0.0.1:60114] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:03:40] [Netty Worker IO Thread #9/ERROR]: [/127.0.0.1:60128] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:03:40] [Netty Worker IO Thread #10/ERROR]: [/127.0.0.1:60130] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:03:45] [Netty Worker IO Thread #11/ERROR]: [/127.0.0.1:60146] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+[19:04:15] [Netty Worker IO Thread #12/WARN]: [/127.0.0.1:60152] <-> InitialHandler - read timed out
+[19:14:52] [Shutdown Thread/INFO]: Closing listener [id: 0xe0d0dbb6, L:/127.0.0.1:25577]
+[19:14:52] [Shutdown Thread/INFO]: Closing pending connections
+[19:14:52] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[19:14:52] [Shutdown Thread/INFO]: Disabling plugins
+[19:14:52] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /127.0.0.1:8081
+[19:14:52] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[19:14:52] [Shutdown Thread/INFO]: Closing IO threads

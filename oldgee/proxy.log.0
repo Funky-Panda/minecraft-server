@@ -1,0 +1,124 @@
+18:13:53 [INFO] Enabled BungeeCord version unknown
+18:13:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:13:54 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:13:54 [INFO] Listening websockets on localhost/127.0.0.1:8082
+18:13:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:13:55 [INFO] Reload complete
+18:13:55 [INFO] Listening on /127.11.0.1:36195
+18:17:00 [INFO] [YeeishDarvler61] <-> InitialHandler has connected
+18:17:00 [INFO] Player 'YeeishDarvler61' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:17:00 [INFO] Player 'YeeishDarvler61' [/127.0.0.1] is using a client at: eaglercraft-bj5.pages.dev
+18:17:00 [INFO] [YeeishDarvler61] <-> ServerConnector [server] has connected
+18:21:49 [INFO] §cCommand not found
+18:22:37 [WARNING] [YeeishDarvler61] <-> DownstreamBridge <-> [server] - IOException: Connection reset by peer
+18:22:37 [INFO] [YeeishDarvler61] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+18:22:37 [INFO] [YeeishDarvler61] -> UpstreamBridge has disconnected
+18:22:37 [INFO] [YeeishDarvler61] <-> DownstreamBridge <-> [server] has disconnected
+18:22:37 [SEVERE] Exception in thread "main" 
+18:22:37 [SEVERE] java.io.IOException: Input/output error
+18:22:37 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+18:22:37 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+18:22:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+18:22:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+18:22:37 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+18:22:37 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+18:22:37 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+18:22:37 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+18:22:37 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+18:22:37 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2162)
+18:22:52 [INFO] Enabled BungeeCord version unknown
+18:22:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:22:54 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:22:54 [INFO] Listening websockets on localhost/127.0.0.1:8082
+18:22:54 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:22:54 [INFO] Reload complete
+18:22:54 [INFO] Listening on /127.11.0.1:33305
+18:28:23 [SEVERE] Exception in thread "main" 
+18:28:23 [SEVERE] java.io.IOException: Input/output error
+18:28:23 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
+18:28:23 [SEVERE] 	at java.io.FileInputStream.read(FileInputStream.java:207)
+18:28:23 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+18:28:23 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+18:28:23 [SEVERE] 	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+18:28:23 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+18:28:23 [SEVERE] 	at jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+18:28:23 [SEVERE] 	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2038)
+18:28:23 [SEVERE] 	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2242)
+18:29:48 [INFO] Enabled BungeeCord version unknown
+18:29:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:29:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:29:50 [INFO] Listening websockets on localhost/127.0.0.1:8082
+18:29:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:29:51 [INFO] Reload complete
+18:29:51 [INFO] Listening on /127.11.0.1:34825
+19:01:14 [INFO] Enabled BungeeCord version unknown
+19:01:14 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:01:14 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+19:01:14 [INFO] Listening websockets on localhost/127.0.0.1:8082
+19:01:14 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:01:14 [INFO] Reload complete
+19:01:14 [INFO] Listening on /127.11.0.1:42103
+19:02:34 [SEVERE] [/127.0.0.1:37560] <-> InitialHandler - encountered exception
+io.netty.handler.codec.DecoderException: java.lang.RuntimeException: Unknown packet id 115
+	at io.netty.handler.codec.ReplayingDecoder.callDecode(ReplayingDecoder.java:393)
+	at io.netty.handler.codec.ByteToMessageDecoder.messageReceived(ByteToMessageDecoder.java:138)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+	at io.netty.handler.timeout.ReadTimeoutHandler.messageReceived(ReadTimeoutHandler.java:150)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.RuntimeException: Unknown packet id 115
+	at net.md_5.bungee.protocol.Vanilla.read(Vanilla.java:132)
+	at net.md_5.bungee.netty.PacketDecoder.decode(PacketDecoder.java:22)
+	at io.netty.handler.codec.ReplayingDecoder.callDecode(ReplayingDecoder.java:356)
+	... 13 more
+19:02:35 [SEVERE] [/127.0.0.1:37574] <-> InitialHandler - encountered exception
+io.netty.handler.codec.DecoderException: java.lang.RuntimeException: Unknown packet id 115
+	at io.netty.handler.codec.ReplayingDecoder.callDecode(ReplayingDecoder.java:393)
+	at io.netty.handler.codec.ByteToMessageDecoder.messageReceived(ByteToMessageDecoder.java:138)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+	at io.netty.handler.timeout.ReadTimeoutHandler.messageReceived(ReadTimeoutHandler.java:150)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.RuntimeException: Unknown packet id 115
+	at net.md_5.bungee.protocol.Vanilla.read(Vanilla.java:132)
+	at net.md_5.bungee.netty.PacketDecoder.decode(PacketDecoder.java:22)
+	at io.netty.handler.codec.ReplayingDecoder.callDecode(ReplayingDecoder.java:356)
+	... 13 more
+19:02:40 [SEVERE] [/127.0.0.1:37576] <-> InitialHandler - encountered exception
+io.netty.handler.codec.DecoderException: java.lang.RuntimeException: Unknown packet id 115
+	at io.netty.handler.codec.ReplayingDecoder.callDecode(ReplayingDecoder.java:393)
+	at io.netty.handler.codec.ByteToMessageDecoder.messageReceived(ByteToMessageDecoder.java:138)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+	at io.netty.handler.timeout.ReadTimeoutHandler.messageReceived(ReadTimeoutHandler.java:150)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.RuntimeException: Unknown packet id 115
+	at net.md_5.bungee.protocol.Vanilla.read(Vanilla.java:132)
+	at net.md_5.bungee.netty.PacketDecoder.decode(PacketDecoder.java:22)
+	at io.netty.handler.codec.ReplayingDecoder.callDecode(ReplayingDecoder.java:356)
+	... 13 more
+19:03:10 [WARNING] [/127.0.0.1:46992] <-> InitialHandler - read timed out
